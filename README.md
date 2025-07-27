@@ -61,7 +61,7 @@ These are essential building blocks for more advanced NLP systems and customer s
 
 re module for regular expressions and pattern detection
 
-(Also used: math module in the Tic-Tac-Toe AI project for Minimax logic)
+
 
 🔖 Acknowledgments
 Special thanks to @Coding Samurai for providing a practical and beginner-friendly internship experience focused on real-world problem-solving.
