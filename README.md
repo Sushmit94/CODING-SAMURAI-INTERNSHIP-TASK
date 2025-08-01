@@ -13,7 +13,7 @@ A terminal-based Tic-Tac-Toe game where the player (X) competes against an AI (O
 - Python-based 3x3 board game
 - AI move selection using recursive minimax logic
 - Draw, win, and lose detection
-- Interactive CLI for player moves
+  
 
 #### Run:
 ```bash
