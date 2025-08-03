@@ -42,8 +42,8 @@ A simple rule-based chatbot that simulates basic customer service interactions. 
 
 🖥 Run Instructions
 bash
-Copy
-Edit
+
+
 python chatbot.py
 🧱 Purpose
 This chatbot marks a foundational step in my journey into AI-driven automation and natural language interaction. Though basic, it helped me understand:
