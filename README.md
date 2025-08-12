@@ -21,7 +21,7 @@ python tictactoe.py
 
 
 2. Customer Support Chatbot
-A simple rule-based chatbot that simulates basic customer service interactions. Designed as a beginner project during my internship with @Coding Samurai, this chatbot uses regex-based intent matching to recognize and respond to common user queries.
+A simple rule-based chatbot that simulates basic customer service interactions. Designed as a beginner project during my internship with @Coding Samurai, this chatbot uses regex-based intent matching.
 
 🚀 Features
 🤝 Greets the user and initiates an interactive conversation
