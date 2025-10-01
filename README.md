@@ -1,3 +1,5 @@
+THIS REPO IS DISCARDED
+
 # 🧠 Basic Python Projects – Coding Samurai Internship
 
 Welcome to the repository containing my initial hands-on projects completed as part of my internship with **Coding Samurai**. These beginner-level tasks helped me build confidence in , algorithms, and user interaction flow.
